@@ -1,5 +1,5 @@
 # Welcome to Frank-Community 👋
-<img src="frank(1).png"/>
+<img src="frank(1).png"></img>
 <!--
 
 **Here are some ideas to get you started:**
